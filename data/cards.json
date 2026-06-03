@@ -1,0 +1,101 @@
+[
+  {
+    "id": "chase-sapphire-preferred",
+    "name": "Chase Sapphire Preferred",
+    "issuer": "Chase",
+    "network": "Visa",
+    "annual_fee": 95,
+    "sign_up_bonus": "60,000 points (~$750 in travel)",
+    "sign_up_spend": "$4,000 in first 3 months",
+    "categories": ["travel", "dining", "streaming"],
+    "rewards": {
+      "travel": "3x",
+      "dining": "3x",
+      "streaming": "3x",
+      "other": "1x"
+    },
+    "perks": [
+      "No foreign transaction fees",
+      "Primary car rental collision insurance",
+      "Trip cancellation & interruption insurance",
+      "Baggage delay insurance",
+      "DoorDash DashPass membership",
+      "$50 annual hotel credit via Chase Travel portal"
+    ],
+    "apply_url": "#",
+    "accent_color": "#1a6bc4"
+  },
+  {
+    "id": "amex-gold",
+    "name": "American Express Gold",
+    "issuer": "American Express",
+    "network": "Amex",
+    "annual_fee": 250,
+    "sign_up_bonus": "60,000 Membership Rewards points",
+    "sign_up_spend": "$6,000 in first 6 months",
+    "categories": ["dining", "groceries", "travel"],
+    "rewards": {
+      "dining": "4x",
+      "groceries": "4x",
+      "travel": "3x",
+      "other": "1x"
+    },
+    "perks": [
+      "$120 dining credit (Grubhub, Cheesecake Factory, and more)",
+      "$120 Uber Cash annually",
+      "No foreign transaction fees",
+      "Trip delay insurance",
+      "Baggage insurance plan",
+      "Car rental loss and damage insurance"
+    ],
+    "apply_url": "#",
+    "accent_color": "#b8860b"
+  },
+  {
+    "id": "citi-double-cash",
+    "name": "Citi Double Cash",
+    "issuer": "Citi",
+    "network": "Mastercard",
+    "annual_fee": 0,
+    "sign_up_bonus": "$200 cash back",
+    "sign_up_spend": "$1,500 in first 6 months",
+    "categories": ["cashback"],
+    "rewards": {
+      "special": "2% on all purchases",
+      "other": "2%"
+    },
+    "perks": [
+      "No annual fee",
+      "$0 liability on unauthorized charges",
+      "Citi Entertainment access",
+      "Flexible redemption — cash, statement credit, or check",
+      "24/7 customer service"
+    ],
+    "apply_url": "#",
+    "accent_color": "#c41230"
+  },
+  {
+    "id": "discover-it-cash-back",
+    "name": "Discover it Cash Back",
+    "issuer": "Discover",
+    "network": "Discover",
+    "annual_fee": 0,
+    "sign_up_bonus": "Cashback Match — all first-year cashback doubled",
+    "sign_up_spend": null,
+    "categories": ["cashback", "rotating"],
+    "rewards": {
+      "special": "5% rotating categories (up to $1,500/qtr)",
+      "other": "1%"
+    },
+    "perks": [
+      "No annual fee",
+      "Cashback Match — Discover matches all cashback in year one",
+      "Free FICO credit score on every statement",
+      "No foreign transaction fees",
+      "Free Social Security number alerts",
+      "Freeze account instantly via app or online"
+    ],
+    "apply_url": "#",
+    "accent_color": "#e06b00"
+  }
+]
