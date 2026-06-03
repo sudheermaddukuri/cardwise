@@ -1,6 +1,9 @@
 from __future__ import annotations
 
+from collections.abc import Callable
+
 import streamlit as st
+
 from models import Card
 
 
@@ -22,19 +25,25 @@ def _reward_highlights(card: Card) -> list[str]:
     return items[:3]
 
 
-def _render_card_tile(card: Card, score: int, rank: int, show_score: bool) -> None:
+def _render_card_tile(
+    card: Card,
+    score: int,
+    rank: int,
+    show_score: bool,
+    on_details: Callable | None,
+) -> None:
     with st.container(border=True):
-        # Accent border + name — minimal inline HTML, reliable in all Streamlit versions
+        # Accent left bar + name — inline styles so it works on any theme
         st.html(
             f'<div style="border-left:4px solid {card.accent_color};'
             f'padding-left:10px;margin:0 0 4px">'
             f'<span style="font-weight:700;font-size:1.05rem">{card.name}</span><br>'
-            f'<span style="font-size:0.78rem;opacity:0.6">{card.issuer} · {card.network}</span>'
+            f'<span style="font-size:0.78rem;opacity:0.5">{card.issuer} · {card.network}</span>'
             f'</div>'
         )
 
         if show_score:
-            st.progress(score / 100, text=f"#{rank} &nbsp;·&nbsp; **{score}%** match")
+            st.progress(score / 100, text=f"#{rank} · **{score}%** match")
 
         c1, c2 = st.columns(2)
         fee = f"${card.annual_fee}/yr" if card.annual_fee > 0 else "No fee"
@@ -46,14 +55,20 @@ def _render_card_tile(card: Card, score: int, rank: int, show_score: bool) -> No
         c2.metric("Sign-up Bonus", bonus)
 
         highlights = _reward_highlights(card)
-        st.markdown("&nbsp; · &nbsp;".join(f"`{h}`" for h in highlights))
+        st.markdown("  ·  ".join(f"`{h}`" for h in highlights))
 
+        # Calling on_details(card) directly opens the @st.dialog overlay
+        # on this same rerun — no session state or st.rerun() needed.
         if st.button("Details →", key=f"details_{card.id}", use_container_width=True):
-            st.session_state.selected_card_id = card.id
-            st.rerun()
+            if on_details:
+                on_details(card)
 
 
-def render_card_grid(scored: list[tuple[Card, int]], has_scores: bool) -> None:
+def render_card_grid(
+    scored: list[tuple[Card, int]],
+    has_scores: bool,
+    on_details: Callable | None = None,
+) -> None:
     count = len(scored)
     if has_scores:
         st.caption(f"Sorted by match · {count} cards")
@@ -64,4 +79,4 @@ def render_card_grid(scored: list[tuple[Card, int]], has_scores: bool) -> None:
 
     for i, (card, score) in enumerate(scored):
         with (col_a if i % 2 == 0 else col_b):
-            _render_card_tile(card, score, i + 1, has_scores)
+            _render_card_tile(card, score, i + 1, has_scores, on_details)

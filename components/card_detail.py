@@ -5,19 +5,14 @@ from models import Card
 
 
 def render_detail_panel(card: Card) -> None:
-    # Header with accent top-border
     st.html(
-        f'<div style="border-top:3px solid {card.accent_color};padding-top:0.85rem;margin-bottom:0.25rem">'
+        f'<div style="border-top:3px solid {card.accent_color};'
+        f'padding-top:0.85rem;margin-bottom:0.25rem">'
         f'<span style="font-weight:700;font-size:1.2rem">{card.name}</span><br>'
-        f'<span style="font-size:0.8rem;opacity:0.55">{card.issuer} · {card.network}</span>'
+        f'<span style="font-size:0.8rem;opacity:0.5">{card.issuer} · {card.network}</span>'
         f'</div>'
     )
 
-    if st.button("✕ Close", key="close_detail"):
-        del st.session_state["selected_card_id"]
-        st.rerun()
-
-    # Key metrics
     fee_str = f"${card.annual_fee}/yr" if card.annual_fee > 0 else "No annual fee"
     m1, m2 = st.columns(2)
     m1.metric("Annual Fee", fee_str)
@@ -30,7 +25,6 @@ def render_detail_panel(card: Card) -> None:
 
     st.divider()
 
-    # Rewards breakdown
     st.markdown("**Rewards**")
     r = card.rewards
     reward_rows: list[tuple[str, str]] = []
@@ -55,10 +49,9 @@ def render_detail_panel(card: Card) -> None:
 
     st.divider()
 
-    # Perks
     st.markdown("**Perks & Benefits**")
     for perk in card.perks:
         st.markdown(f"✓ &nbsp;{perk}")
 
-    st.markdown("<br>", unsafe_allow_html=True)
+    st.html("<div style='height:0.75rem'></div>")
     st.link_button("Apply Now →", card.apply_url, use_container_width=True, type="primary")
