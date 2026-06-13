@@ -14,6 +14,21 @@
       "streaming": "3x",
       "other": "1x"
     },
+    "reward_config": {
+      "type": "points",
+      "currency": "Ultimate Rewards",
+      "point_value_cents": 1.25,
+      "category_rates": {
+        "travel": 3,
+        "dining": 3,
+        "other": 1
+      },
+      "streaming_bonus": {
+        "rate": 3,
+        "applies_to_category": "entertainment",
+        "merchants": ["Netflix", "Spotify", "Hulu", "Disney+", "Apple TV+", "HBO Max"]
+      }
+    },
     "perks": [
       "No foreign transaction fees",
       "Primary car rental collision insurance",
@@ -40,6 +55,17 @@
       "travel": "3x",
       "other": "1x"
     },
+    "reward_config": {
+      "type": "points",
+      "currency": "Membership Rewards",
+      "point_value_cents": 1.0,
+      "category_rates": {
+        "dining": 4,
+        "groceries": 4,
+        "travel": 3,
+        "other": 1
+      }
+    },
     "perks": [
       "$120 dining credit (Grubhub, Cheesecake Factory, and more)",
       "$120 Uber Cash annually",
@@ -64,6 +90,11 @@
       "special": "2% on all purchases",
       "other": "2%"
     },
+    "reward_config": {
+      "type": "cashback",
+      "flat_rate": 0.02,
+      "description": "2% on all purchases (1% when you buy + 1% when you pay)"
+    },
     "perks": [
       "No annual fee",
       "$0 liability on unauthorized charges",
@@ -86,6 +117,24 @@
     "rewards": {
       "special": "5% rotating categories (up to $1,500/qtr)",
       "other": "1%"
+    },
+    "reward_config": {
+      "type": "cashback",
+      "base_rate": 0.01,
+      "rotating_rate": 0.05,
+      "quarterly_cap": 1500.00,
+      "rotating_schedule": {
+        "2025-Q4": {
+          "shopping": ["Amazon", "Walmart", "Target"]
+        },
+        "2026-Q1": {
+          "groceries": null,
+          "entertainment": ["Netflix", "Spotify", "Hulu", "Disney+", "Apple TV+", "HBO Max"]
+        },
+        "2026-Q2": {
+          "gas": null
+        }
+      }
     },
     "perks": [
       "No annual fee",

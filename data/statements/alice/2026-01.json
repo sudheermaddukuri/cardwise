@@ -1,0 +1,549 @@
+{
+  "user_id": "alice",
+  "name": "Alice Chen",
+  "month": "2026-01",
+  "cards": [
+    "citi-double-cash",
+    "chase-sapphire-preferred"
+  ],
+  "transactions": [
+    {
+      "date": "2026-01-02",
+      "merchant": "Apple Store",
+      "category": "shopping",
+      "amount": 295.4,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 5.91,
+        "note": "2% cashback on all purchases \u2014 $5.91 earned"
+      }
+    },
+    {
+      "date": "2026-01-03",
+      "merchant": "StubHub",
+      "category": "entertainment",
+      "amount": 193.94,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 3.88,
+        "note": "2% cashback on all purchases \u2014 $3.88 earned"
+      }
+    },
+    {
+      "date": "2026-01-03",
+      "merchant": "Target",
+      "category": "shopping",
+      "amount": 148.0,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 2.96,
+        "note": "2% cashback on all purchases \u2014 $2.96 earned"
+      }
+    },
+    {
+      "date": "2026-01-04",
+      "merchant": "Chevron",
+      "category": "gas",
+      "amount": 72.07,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 1.44,
+        "note": "2% cashback on all purchases \u2014 $1.44 earned"
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "merchant": "Regal Cinemas",
+      "category": "entertainment",
+      "amount": 22.36,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.45,
+        "note": "2% cashback on all purchases \u2014 $0.45 earned"
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "merchant": "REI",
+      "category": "shopping",
+      "amount": 93.73,
+      "card_id": "chase-sapphire-preferred",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Ultimate Rewards",
+        "rate": "1x",
+        "points_earned": 94,
+        "estimated_value_usd": 1.18,
+        "note": "1x Ultimate Rewards on Shopping \u2014 94 pts \u2248 $1.18 at 1.25\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-01-06",
+      "merchant": "H&M",
+      "category": "shopping",
+      "amount": 70.35,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 1.41,
+        "note": "2% cashback on all purchases \u2014 $1.41 earned"
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "merchant": "Five Guys",
+      "category": "dining",
+      "amount": 13.16,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.26,
+        "note": "2% cashback on all purchases \u2014 $0.26 earned"
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "merchant": "Dos Caminos",
+      "category": "dining",
+      "amount": 30.57,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.61,
+        "note": "2% cashback on all purchases \u2014 $0.61 earned"
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "merchant": "Wegmans",
+      "category": "groceries",
+      "amount": 108.57,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 2.17,
+        "note": "2% cashback on all purchases \u2014 $2.17 earned"
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "merchant": "Aldi",
+      "category": "groceries",
+      "amount": 50.16,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 1.0,
+        "note": "2% cashback on all purchases \u2014 $1.00 earned"
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "merchant": "Olive Garden",
+      "category": "dining",
+      "amount": 36.99,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.74,
+        "note": "2% cashback on all purchases \u2014 $0.74 earned"
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "merchant": "National Car Rental",
+      "category": "travel",
+      "amount": 97.97,
+      "card_id": "chase-sapphire-preferred",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Ultimate Rewards",
+        "rate": "3x",
+        "points_earned": 294,
+        "estimated_value_usd": 3.67,
+        "note": "3x Ultimate Rewards on Travel \u2014 294 pts \u2248 $3.67 at 1.25\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-01-13",
+      "merchant": "Walmart",
+      "category": "shopping",
+      "amount": 64.99,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 1.3,
+        "note": "2% cashback on all purchases \u2014 $1.30 earned"
+      }
+    },
+    {
+      "date": "2026-01-17",
+      "merchant": "The Smith",
+      "category": "dining",
+      "amount": 43.07,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.86,
+        "note": "2% cashback on all purchases \u2014 $0.86 earned"
+      }
+    },
+    {
+      "date": "2026-01-17",
+      "merchant": "Blue Bottle Coffee",
+      "category": "dining",
+      "amount": 9.34,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.19,
+        "note": "2% cashback on all purchases \u2014 $0.19 earned"
+      }
+    },
+    {
+      "date": "2026-01-18",
+      "merchant": "H&M",
+      "category": "shopping",
+      "amount": 67.51,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 1.35,
+        "note": "2% cashback on all purchases \u2014 $1.35 earned"
+      }
+    },
+    {
+      "date": "2026-01-21",
+      "merchant": "The Capital Grille",
+      "category": "dining",
+      "amount": 139.37,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 2.79,
+        "note": "2% cashback on all purchases \u2014 $2.79 earned"
+      }
+    },
+    {
+      "date": "2026-01-23",
+      "merchant": "Macy's",
+      "category": "shopping",
+      "amount": 145.85,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 2.92,
+        "note": "2% cashback on all purchases \u2014 $2.92 earned"
+      }
+    },
+    {
+      "date": "2026-01-24",
+      "merchant": "Dos Caminos",
+      "category": "dining",
+      "amount": 36.25,
+      "card_id": "chase-sapphire-preferred",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Ultimate Rewards",
+        "rate": "3x",
+        "points_earned": 109,
+        "estimated_value_usd": 1.36,
+        "note": "3x Ultimate Rewards on Dining \u2014 109 pts \u2248 $1.36 at 1.25\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-01-24",
+      "merchant": "Dig Inn",
+      "category": "dining",
+      "amount": 14.58,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 0.29,
+        "note": "2% cashback on all purchases \u2014 $0.29 earned"
+      }
+    },
+    {
+      "date": "2026-01-28",
+      "merchant": "Hilton Hotels",
+      "category": "travel",
+      "amount": 230.87,
+      "card_id": "chase-sapphire-preferred",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Ultimate Rewards",
+        "rate": "3x",
+        "points_earned": 693,
+        "estimated_value_usd": 8.66,
+        "note": "3x Ultimate Rewards on Travel \u2014 693 pts \u2248 $8.66 at 1.25\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-01-30",
+      "merchant": "Costco Wholesale",
+      "category": "groceries",
+      "amount": 131.8,
+      "card_id": "citi-double-cash",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "2%",
+        "cashback_usd": 2.64,
+        "note": "2% cashback on all purchases \u2014 $2.64 earned"
+      }
+    }
+  ],
+  "reward_postings": [
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Apple Store ($295.40 charged 01-02)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 5.91
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 StubHub ($193.94 charged 01-03)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 3.88
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Target ($148.00 charged 01-03)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 2.96
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Chevron ($72.07 charged 01-04)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 1.44
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Regal Cinemas ($22.36 charged 01-05)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.45
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Rewards Posted: 1x Ultimate Rewards \u2014 REI ($93.73 charged 01-05)",
+      "card_id": "chase-sapphire-preferred",
+      "type": "points",
+      "points_earned": 94,
+      "estimated_value_usd": 1.18
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 H&M ($70.35 charged 01-06)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 1.41
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Five Guys ($13.16 charged 01-08)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.26
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Dos Caminos ($30.57 charged 01-08)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.61
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Wegmans ($108.57 charged 01-08)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 2.17
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Aldi ($50.16 charged 01-08)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 1.0
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Olive Garden ($36.99 charged 01-12)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.74
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Rewards Posted: 3x Ultimate Rewards \u2014 National Car Rental ($97.97 charged 01-12)",
+      "card_id": "chase-sapphire-preferred",
+      "type": "points",
+      "points_earned": 294,
+      "estimated_value_usd": 3.67
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Walmart ($64.99 charged 01-13)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 1.3
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 The Smith ($43.07 charged 01-17)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.86
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Blue Bottle Coffee ($9.34 charged 01-17)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.19
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 H&M ($67.51 charged 01-18)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 1.35
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 The Capital Grille ($139.37 charged 01-21)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 2.79
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Macy's ($145.85 charged 01-23)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 2.92
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Rewards Posted: 3x Ultimate Rewards \u2014 Dos Caminos ($36.25 charged 01-24)",
+      "card_id": "chase-sapphire-preferred",
+      "type": "points",
+      "points_earned": 109,
+      "estimated_value_usd": 1.36
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Dig Inn ($14.58 charged 01-24)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 0.29
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Rewards Posted: 3x Ultimate Rewards \u2014 Hilton Hotels ($230.87 charged 01-28)",
+      "card_id": "chase-sapphire-preferred",
+      "type": "points",
+      "points_earned": 693,
+      "estimated_value_usd": 8.66
+    },
+    {
+      "date": "2026-01-31",
+      "description": "Cashback Posted: 2% \u2014 Costco Wholesale ($131.80 charged 01-30)",
+      "card_id": "citi-double-cash",
+      "type": "cashback",
+      "cashback_usd": 2.64
+    }
+  ],
+  "summary": {
+    "total_spend": 2116.9,
+    "transaction_count": 23,
+    "by_category": {
+      "shopping": 885.83,
+      "entertainment": 216.3,
+      "gas": 72.07,
+      "dining": 323.33,
+      "groceries": 290.53,
+      "travel": 328.84
+    },
+    "by_card": {
+      "citi-double-cash": 1658.08,
+      "chase-sapphire-preferred": 458.82
+    }
+  },
+  "rewards_summary": {
+    "citi-double-cash": {
+      "type": "cashback",
+      "total_cashback_usd": 33.17,
+      "by_category": {
+        "shopping": {
+          "cashback_usd": 15.85,
+          "rate": "2%"
+        },
+        "entertainment": {
+          "cashback_usd": 4.33,
+          "rate": "2%"
+        },
+        "gas": {
+          "cashback_usd": 1.44,
+          "rate": "2%"
+        },
+        "dining": {
+          "cashback_usd": 5.74,
+          "rate": "2%"
+        },
+        "groceries": {
+          "cashback_usd": 5.81,
+          "rate": "2%"
+        }
+      }
+    },
+    "chase-sapphire-preferred": {
+      "type": "points",
+      "currency": "Ultimate Rewards",
+      "total_points_earned": 1190,
+      "total_estimated_value_usd": 14.87,
+      "by_category": {
+        "shopping": {
+          "points": 94,
+          "rate": "1x"
+        },
+        "travel": {
+          "points": 987,
+          "rate": "3x"
+        },
+        "dining": {
+          "points": 109,
+          "rate": "3x"
+        }
+      }
+    }
+  }
+}

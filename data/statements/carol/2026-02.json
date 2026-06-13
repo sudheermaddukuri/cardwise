@@ -1,0 +1,619 @@
+{
+  "user_id": "carol",
+  "name": "Carol Kim",
+  "month": "2026-02",
+  "cards": [
+    "discover-it-cash-back"
+  ],
+  "transactions": [
+    {
+      "date": "2026-02-01",
+      "merchant": "Safeway",
+      "category": "groceries",
+      "amount": 137.46,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 6.87,
+        "note": "5% rotating cashback (2026 Q1, groceries) \u2014 $6.87 earned. $510.97/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-01",
+      "merchant": "Google One",
+      "category": "utilities",
+      "amount": 2.99,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.03,
+        "note": "1% cashback \u2014 $0.03 earned"
+      }
+    },
+    {
+      "date": "2026-02-02",
+      "merchant": "Apple TV+",
+      "category": "entertainment",
+      "amount": 9.99,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 0.5,
+        "note": "5% rotating cashback (2026 Q1, entertainment) \u2014 $0.50 earned. $520.96/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "Hulu",
+      "category": "entertainment",
+      "amount": 17.99,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 0.9,
+        "note": "5% rotating cashback (2026 Q1, entertainment) \u2014 $0.90 earned. $538.95/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "REI",
+      "category": "shopping",
+      "amount": 230.23,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 2.3,
+        "note": "1% cashback \u2014 $2.30 earned"
+      }
+    },
+    {
+      "date": "2026-02-05",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 90.78,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 4.54,
+        "note": "5% rotating cashback (2026 Q1, groceries) \u2014 $4.54 earned. $629.73/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-05",
+      "merchant": "Dropbox",
+      "category": "utilities",
+      "amount": 11.99,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.12,
+        "note": "1% cashback \u2014 $0.12 earned"
+      }
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "Mobil",
+      "category": "gas",
+      "amount": 65.76,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.66,
+        "note": "1% cashback \u2014 $0.66 earned"
+      }
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "Blue Bottle Coffee",
+      "category": "dining",
+      "amount": 11.47,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.11,
+        "note": "1% cashback \u2014 $0.11 earned"
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "merchant": "Regal Cinemas",
+      "category": "entertainment",
+      "amount": 12.5,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.12,
+        "note": "1% cashback \u2014 $0.12 earned"
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Speedway",
+      "category": "gas",
+      "amount": 51.81,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.52,
+        "note": "1% cashback \u2014 $0.52 earned"
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 12.32,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.12,
+        "note": "1% cashback \u2014 $0.12 earned"
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "Walmart",
+      "category": "shopping",
+      "amount": 57.8,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.58,
+        "note": "1% cashback \u2014 $0.58 earned"
+      }
+    },
+    {
+      "date": "2026-02-13",
+      "merchant": "Macy's",
+      "category": "shopping",
+      "amount": 82.46,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.82,
+        "note": "1% cashback \u2014 $0.82 earned"
+      }
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Blue Bottle Coffee",
+      "category": "dining",
+      "amount": 13.35,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.13,
+        "note": "1% cashback \u2014 $0.13 earned"
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 76.32,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 3.82,
+        "note": "5% rotating cashback (2026 Q1, groceries) \u2014 $3.82 earned. $706.05/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "merchant": "Ticketmaster",
+      "category": "entertainment",
+      "amount": 112.88,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 1.13,
+        "note": "1% cashback \u2014 $1.13 earned"
+      }
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 14.7,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.15,
+        "note": "1% cashback \u2014 $0.15 earned"
+      }
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Whole Foods Market",
+      "category": "groceries",
+      "amount": 77.33,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 3.87,
+        "note": "5% rotating cashback (2026 Q1, groceries) \u2014 $3.87 earned. $783.38/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-18",
+      "merchant": "IKEA",
+      "category": "shopping",
+      "amount": 210.43,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 2.1,
+        "note": "1% cashback \u2014 $2.10 earned"
+      }
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "Dos Caminos",
+      "category": "dining",
+      "amount": 27.07,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.27,
+        "note": "1% cashback \u2014 $0.27 earned"
+      }
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 117.54,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 5.88,
+        "note": "5% rotating cashback (2026 Q1, groceries) \u2014 $5.88 earned. $900.92/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "IKEA",
+      "category": "shopping",
+      "amount": 237.83,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 2.38,
+        "note": "1% cashback \u2014 $2.38 earned"
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "Mobil",
+      "category": "gas",
+      "amount": 45.98,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.46,
+        "note": "1% cashback \u2014 $0.46 earned"
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "Ticketmaster",
+      "category": "entertainment",
+      "amount": 57.64,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.58,
+        "note": "1% cashback \u2014 $0.58 earned"
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "Best Buy",
+      "category": "shopping",
+      "amount": 317.14,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 3.17,
+        "note": "1% cashback \u2014 $3.17 earned"
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 95.49,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 4.77,
+        "note": "5% rotating cashback (2026 Q1, groceries) \u2014 $4.77 earned. $996.41/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "Shake Shack",
+      "category": "dining",
+      "amount": 17.64,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.18,
+        "note": "1% cashback \u2014 $0.18 earned"
+      }
+    }
+  ],
+  "reward_postings": [
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Safeway ($137.46 charged 02-01)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 6.87
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Google One ($2.99 charged 02-01)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.03
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Apple TV+ ($9.99 charged 02-02)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.5
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Hulu ($17.99 charged 02-04)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.9
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 REI ($230.23 charged 02-04)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.3
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Stop & Shop ($90.78 charged 02-05)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 4.54
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Dropbox ($11.99 charged 02-05)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.12
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Mobil ($65.76 charged 02-06)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.66
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Blue Bottle Coffee ($11.47 charged 02-08)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.11
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Regal Cinemas ($12.50 charged 02-10)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.12
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Speedway ($51.81 charged 02-11)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.52
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Joe's Pizza ($12.32 charged 02-12)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.12
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Walmart ($57.80 charged 02-12)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.58
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Macy's ($82.46 charged 02-13)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.82
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Blue Bottle Coffee ($13.35 charged 02-15)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.13
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Publix ($76.32 charged 02-16)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 3.82
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Ticketmaster ($112.88 charged 02-16)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 1.13
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Sweetgreen ($14.70 charged 02-17)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.15
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Whole Foods Market ($77.33 charged 02-17)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 3.87
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 IKEA ($210.43 charged 02-18)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.1
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Dos Caminos ($27.07 charged 02-21)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.27
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Publix ($117.54 charged 02-22)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 5.88
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 IKEA ($237.83 charged 02-24)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.38
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Mobil ($45.98 charged 02-26)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.46
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Ticketmaster ($57.64 charged 02-26)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.58
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Best Buy ($317.14 charged 02-26)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 3.17
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 5% rotating \u2014 Stop & Shop ($95.49 charged 02-27)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 4.77
+    },
+    {
+      "date": "2026-02-28",
+      "description": "Cashback Posted: 1% \u2014 Shake Shack ($17.64 charged 02-28)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.18
+    }
+  ],
+  "summary": {
+    "total_spend": 2216.89,
+    "transaction_count": 28,
+    "by_category": {
+      "groceries": 594.92,
+      "utilities": 14.98,
+      "entertainment": 211.0,
+      "shopping": 1135.89,
+      "gas": 163.55,
+      "dining": 96.55
+    },
+    "by_card": {
+      "discover-it-cash-back": 2216.89
+    }
+  },
+  "rewards_summary": {
+    "discover-it-cash-back": {
+      "type": "cashback",
+      "total_cashback_usd": 47.08,
+      "by_category": {
+        "groceries": {
+          "cashback_usd": 29.75,
+          "rate": "5% rotating"
+        },
+        "utilities": {
+          "cashback_usd": 0.15,
+          "rate": "1%"
+        },
+        "entertainment": {
+          "cashback_usd": 3.23,
+          "rate": "5% rotating"
+        },
+        "shopping": {
+          "cashback_usd": 11.35,
+          "rate": "1%"
+        },
+        "gas": {
+          "cashback_usd": 1.64,
+          "rate": "1%"
+        },
+        "dining": {
+          "cashback_usd": 0.96,
+          "rate": "1%"
+        }
+      }
+    }
+  }
+}

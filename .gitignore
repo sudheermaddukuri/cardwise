@@ -18,3 +18,9 @@ uv.lock
 .claude/
 .vscode/
 .idea/
+data/chroma/chroma.sqlite3
+data/chroma/0dae42b4-1bb9-4eef-920b-7f43296cdb78/data_level0.bin
+data/chroma/0dae42b4-1bb9-4eef-920b-7f43296cdb78/header.bin
+data/chroma/0dae42b4-1bb9-4eef-920b-7f43296cdb78/length.bin
+data/chroma/0dae42b4-1bb9-4eef-920b-7f43296cdb78/link_lists.bin
+.env

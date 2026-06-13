@@ -1,0 +1,594 @@
+{
+  "user_id": "carol",
+  "name": "Carol Kim",
+  "month": "2026-05",
+  "cards": [
+    "discover-it-cash-back"
+  ],
+  "transactions": [
+    {
+      "date": "2026-05-01",
+      "merchant": "HBO Max",
+      "category": "entertainment",
+      "amount": 15.99,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.16,
+        "note": "1% cashback \u2014 $0.16 earned"
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "Sunoco",
+      "category": "gas",
+      "amount": 54.49,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 2.72,
+        "note": "5% rotating cashback (2026 Q2, gas) \u2014 $2.72 earned. $260.46/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-05-03",
+      "merchant": "ExxonMobil",
+      "category": "gas",
+      "amount": 46.92,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 2.35,
+        "note": "5% rotating cashback (2026 Q2, gas) \u2014 $2.35 earned. $307.38/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-05-03",
+      "merchant": "Speedway",
+      "category": "gas",
+      "amount": 56.64,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 2.83,
+        "note": "5% rotating cashback (2026 Q2, gas) \u2014 $2.83 earned. $364.02/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "Safeway",
+      "category": "groceries",
+      "amount": 43.15,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.43,
+        "note": "1% cashback \u2014 $0.43 earned"
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "Spotify",
+      "category": "entertainment",
+      "amount": 10.99,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.11,
+        "note": "1% cashback \u2014 $0.11 earned"
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "Dig Inn",
+      "category": "dining",
+      "amount": 16.3,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.16,
+        "note": "1% cashback \u2014 $0.16 earned"
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "Best Buy",
+      "category": "shopping",
+      "amount": 136.49,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 1.36,
+        "note": "1% cashback \u2014 $1.36 earned"
+      }
+    },
+    {
+      "date": "2026-05-08",
+      "merchant": "Speedway",
+      "category": "gas",
+      "amount": 60.9,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 3.04,
+        "note": "5% rotating cashback (2026 Q2, gas) \u2014 $3.04 earned. $424.92/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "The Smith",
+      "category": "dining",
+      "amount": 30.71,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.31,
+        "note": "1% cashback \u2014 $0.31 earned"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "Kroger",
+      "category": "groceries",
+      "amount": 66.22,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.66,
+        "note": "1% cashback \u2014 $0.66 earned"
+      }
+    },
+    {
+      "date": "2026-05-13",
+      "merchant": "Fairway Market",
+      "category": "groceries",
+      "amount": 86.57,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.87,
+        "note": "1% cashback \u2014 $0.87 earned"
+      }
+    },
+    {
+      "date": "2026-05-13",
+      "merchant": "IKEA",
+      "category": "shopping",
+      "amount": 276.26,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 2.76,
+        "note": "1% cashback \u2014 $2.76 earned"
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Cheesecake Factory",
+      "category": "dining",
+      "amount": 56.17,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.56,
+        "note": "1% cashback \u2014 $0.56 earned"
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 12.75,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.13,
+        "note": "1% cashback \u2014 $0.13 earned"
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "merchant": "Chipotle Mexican Grill",
+      "category": "dining",
+      "amount": 14.0,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.14,
+        "note": "1% cashback \u2014 $0.14 earned"
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 58.87,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.59,
+        "note": "1% cashback \u2014 $0.59 earned"
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "merchant": "Circle K",
+      "category": "gas",
+      "amount": 45.61,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "5% rotating",
+        "cashback_usd": 2.28,
+        "note": "5% rotating cashback (2026 Q2, gas) \u2014 $2.28 earned. $470.53/$1,500 of quarterly cap used."
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "merchant": "AMC Theatres",
+      "category": "entertainment",
+      "amount": 24.56,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.25,
+        "note": "1% cashback \u2014 $0.25 earned"
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "Cheesecake Factory",
+      "category": "dining",
+      "amount": 53.93,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.54,
+        "note": "1% cashback \u2014 $0.54 earned"
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 18.43,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.18,
+        "note": "1% cashback \u2014 $0.18 earned"
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "merchant": "REI",
+      "category": "shopping",
+      "amount": 242.78,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 2.43,
+        "note": "1% cashback \u2014 $2.43 earned"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 64.54,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.65,
+        "note": "1% cashback \u2014 $0.65 earned"
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "Cheesecake Factory",
+      "category": "dining",
+      "amount": 46.85,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.47,
+        "note": "1% cashback \u2014 $0.47 earned"
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "Aldi",
+      "category": "groceries",
+      "amount": 58.69,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.59,
+        "note": "1% cashback \u2014 $0.59 earned"
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "IKEA",
+      "category": "shopping",
+      "amount": 293.92,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 2.94,
+        "note": "1% cashback \u2014 $2.94 earned"
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "merchant": "Chipotle Mexican Grill",
+      "category": "dining",
+      "amount": 14.54,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.15,
+        "note": "1% cashback \u2014 $0.15 earned"
+      }
+    }
+  ],
+  "reward_postings": [
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 HBO Max ($15.99 charged 05-01)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.16
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 5% rotating \u2014 Sunoco ($54.49 charged 05-02)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.72
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 5% rotating \u2014 ExxonMobil ($46.92 charged 05-03)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.35
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 5% rotating \u2014 Speedway ($56.64 charged 05-03)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.83
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Safeway ($43.15 charged 05-05)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.43
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Spotify ($10.99 charged 05-06)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.11
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Dig Inn ($16.30 charged 05-07)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.16
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Best Buy ($136.49 charged 05-07)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 1.36
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 5% rotating \u2014 Speedway ($60.90 charged 05-08)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 3.04
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 The Smith ($30.71 charged 05-12)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.31
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Kroger ($66.22 charged 05-12)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.66
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Fairway Market ($86.57 charged 05-13)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.87
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 IKEA ($276.26 charged 05-13)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.76
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Cheesecake Factory ($56.17 charged 05-15)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.56
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Sweetgreen ($12.75 charged 05-15)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.13
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Chipotle Mexican Grill ($14.00 charged 05-17)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.14
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Sprouts Farmers Market ($58.87 charged 05-18)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.59
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 5% rotating \u2014 Circle K ($45.61 charged 05-18)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.28
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 AMC Theatres ($24.56 charged 05-18)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.25
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Cheesecake Factory ($53.93 charged 05-19)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.54
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Sweetgreen ($18.43 charged 05-22)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.18
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 REI ($242.78 charged 05-25)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.43
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Sprouts Farmers Market ($64.54 charged 05-26)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.65
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Cheesecake Factory ($46.85 charged 05-30)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.47
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Aldi ($58.69 charged 05-30)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.59
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 IKEA ($293.92 charged 05-30)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 2.94
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Cashback Posted: 1% \u2014 Chipotle Mexican Grill ($14.54 charged 05-31)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.15
+    }
+  ],
+  "summary": {
+    "total_spend": 1907.27,
+    "transaction_count": 27,
+    "by_category": {
+      "entertainment": 51.54,
+      "gas": 264.56,
+      "groceries": 378.04,
+      "dining": 263.68,
+      "shopping": 949.45
+    },
+    "by_card": {
+      "discover-it-cash-back": 1907.27
+    }
+  },
+  "rewards_summary": {
+    "discover-it-cash-back": {
+      "type": "cashback",
+      "total_cashback_usd": 29.66,
+      "by_category": {
+        "entertainment": {
+          "cashback_usd": 0.52,
+          "rate": "1%"
+        },
+        "gas": {
+          "cashback_usd": 13.22,
+          "rate": "5% rotating"
+        },
+        "groceries": {
+          "cashback_usd": 3.79,
+          "rate": "1%"
+        },
+        "dining": {
+          "cashback_usd": 2.64,
+          "rate": "1%"
+        },
+        "shopping": {
+          "cashback_usd": 9.49,
+          "rate": "1%"
+        }
+      }
+    }
+  }
+}

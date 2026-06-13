@@ -11,6 +11,7 @@ from components.quiz import render_quiz
 from components.card_grid import render_card_grid
 from components.card_detail import render_detail_panel
 from components.ingest import render_ingest_section
+from components.chat import render_chat
 
 # ── page config ───────────────────────────────────────────────────────────────
 
@@ -60,15 +61,24 @@ st.html("""
 </div>
 """)
 
-# ── quiz + full-width card grid ───────────────────────────────────────────────
+# ── tabs ─────────────────────────────────────────────────────────────────────
 
-cards = load_cards()
+tab_discover, tab_advisor, tab_ingest = st.tabs(["Discover Cards", "Card Advisor", "Add Cards"])
 
-q1, q2, q3 = render_quiz()
-scored = score_cards(cards, q1, q2, q3)
-render_card_grid(scored, any([q1, q2, q3]), on_details=_card_detail_modal)
+# ── Tab 1: quiz + card grid ───────────────────────────────────────────────────
 
-# ── ingestion ─────────────────────────────────────────────────────────────────
+with tab_discover:
+    cards = load_cards()
+    q1, q2, q3 = render_quiz()
+    scored = score_cards(cards, q1, q2, q3)
+    render_card_grid(scored, any([q1, q2, q3]), on_details=_card_detail_modal)
 
-st.divider()
-render_ingest_section()
+# ── Tab 2: RAG chat advisor ───────────────────────────────────────────────────
+
+with tab_advisor:
+    render_chat()
+
+# ── Tab 3: ingestion ──────────────────────────────────────────────────────────
+
+with tab_ingest:
+    render_ingest_section()

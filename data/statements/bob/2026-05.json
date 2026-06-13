@@ -1,0 +1,1160 @@
+{
+  "user_id": "bob",
+  "name": "Bob Martinez",
+  "month": "2026-05",
+  "cards": [
+    "amex-gold"
+  ],
+  "transactions": [
+    {
+      "date": "2026-05-01",
+      "merchant": "The Capital Grille",
+      "category": "dining",
+      "amount": 122.19,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 489,
+        "estimated_value_usd": 4.89,
+        "note": "4x Membership Rewards on Dining \u2014 489 pts \u2248 $4.89 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "Cheesecake Factory",
+      "category": "dining",
+      "amount": 41.11,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 164,
+        "estimated_value_usd": 1.64,
+        "note": "4x Membership Rewards on Dining \u2014 164 pts \u2248 $1.64 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 9.74,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 39,
+        "estimated_value_usd": 0.39,
+        "note": "4x Membership Rewards on Dining \u2014 39 pts \u2248 $0.39 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "Dunkin'",
+      "category": "dining",
+      "amount": 4.76,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 19,
+        "estimated_value_usd": 0.19,
+        "note": "4x Membership Rewards on Dining \u2014 19 pts \u2248 $0.19 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 16.93,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 68,
+        "estimated_value_usd": 0.68,
+        "note": "4x Membership Rewards on Dining \u2014 68 pts \u2248 $0.68 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "Chick-fil-A",
+      "category": "dining",
+      "amount": 9.99,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 40,
+        "estimated_value_usd": 0.4,
+        "note": "4x Membership Rewards on Dining \u2014 40 pts \u2248 $0.40 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "Fairway Market",
+      "category": "groceries",
+      "amount": 60.35,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 241,
+        "estimated_value_usd": 2.41,
+        "note": "4x Membership Rewards on Groceries \u2014 241 pts \u2248 $2.41 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-03",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 18.11,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 72,
+        "estimated_value_usd": 0.72,
+        "note": "4x Membership Rewards on Dining \u2014 72 pts \u2248 $0.72 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "Spotify",
+      "category": "entertainment",
+      "amount": 10.99,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 11,
+        "estimated_value_usd": 0.11,
+        "note": "1x Membership Rewards on Entertainment \u2014 11 pts \u2248 $0.11 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "Regal Cinemas",
+      "category": "entertainment",
+      "amount": 22.56,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 23,
+        "estimated_value_usd": 0.23,
+        "note": "1x Membership Rewards on Entertainment \u2014 23 pts \u2248 $0.23 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "H&M",
+      "category": "shopping",
+      "amount": 65.5,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 66,
+        "estimated_value_usd": 0.66,
+        "note": "1x Membership Rewards on Shopping \u2014 66 pts \u2248 $0.66 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "Wegmans",
+      "category": "groceries",
+      "amount": 51.7,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 207,
+        "estimated_value_usd": 2.07,
+        "note": "4x Membership Rewards on Groceries \u2014 207 pts \u2248 $2.07 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "Disney+",
+      "category": "entertainment",
+      "amount": 13.99,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 14,
+        "estimated_value_usd": 0.14,
+        "note": "1x Membership Rewards on Entertainment \u2014 14 pts \u2248 $0.14 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "Panda Express",
+      "category": "dining",
+      "amount": 10.07,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 40,
+        "estimated_value_usd": 0.4,
+        "note": "4x Membership Rewards on Dining \u2014 40 pts \u2248 $0.40 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-08",
+      "merchant": "Dig Inn",
+      "category": "dining",
+      "amount": 15.82,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 63,
+        "estimated_value_usd": 0.63,
+        "note": "4x Membership Rewards on Dining \u2014 63 pts \u2248 $0.63 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-09",
+      "merchant": "Momofuku Noodle Bar",
+      "category": "dining",
+      "amount": 49.09,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 196,
+        "estimated_value_usd": 1.96,
+        "note": "4x Membership Rewards on Dining \u2014 196 pts \u2248 $1.96 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "Five Guys",
+      "category": "dining",
+      "amount": 16.36,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 65,
+        "estimated_value_usd": 0.65,
+        "note": "4x Membership Rewards on Dining \u2014 65 pts \u2248 $0.65 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "Whole Foods Market",
+      "category": "groceries",
+      "amount": 109.92,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 440,
+        "estimated_value_usd": 4.4,
+        "note": "4x Membership Rewards on Groceries \u2014 440 pts \u2248 $4.40 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "merchant": "American Airlines",
+      "category": "travel",
+      "amount": 177.98,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "3x",
+        "points_earned": 534,
+        "estimated_value_usd": 5.34,
+        "note": "3x Membership Rewards on Travel \u2014 534 pts \u2248 $5.34 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "Shake Shack",
+      "category": "dining",
+      "amount": 16.95,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 68,
+        "estimated_value_usd": 0.68,
+        "note": "4x Membership Rewards on Dining \u2014 68 pts \u2248 $0.68 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "Dunkin'",
+      "category": "dining",
+      "amount": 6.87,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 27,
+        "estimated_value_usd": 0.27,
+        "note": "4x Membership Rewards on Dining \u2014 27 pts \u2248 $0.27 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 102.97,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 412,
+        "estimated_value_usd": 4.12,
+        "note": "4x Membership Rewards on Groceries \u2014 412 pts \u2248 $4.12 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "Whole Foods Market",
+      "category": "groceries",
+      "amount": 122.9,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 492,
+        "estimated_value_usd": 4.92,
+        "note": "4x Membership Rewards on Groceries \u2014 492 pts \u2248 $4.92 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "StubHub",
+      "category": "entertainment",
+      "amount": 188.2,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 188,
+        "estimated_value_usd": 1.88,
+        "note": "1x Membership Rewards on Entertainment \u2014 188 pts \u2248 $1.88 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "merchant": "Five Guys",
+      "category": "dining",
+      "amount": 14.07,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 56,
+        "estimated_value_usd": 0.56,
+        "note": "4x Membership Rewards on Dining \u2014 56 pts \u2248 $0.56 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Nobu New York",
+      "category": "dining",
+      "amount": 99.44,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 398,
+        "estimated_value_usd": 3.98,
+        "note": "4x Membership Rewards on Dining \u2014 398 pts \u2248 $3.98 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Zara",
+      "category": "shopping",
+      "amount": 114.0,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 114,
+        "estimated_value_usd": 1.14,
+        "note": "1x Membership Rewards on Shopping \u2014 114 pts \u2248 $1.14 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 98.04,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 392,
+        "estimated_value_usd": 3.92,
+        "note": "4x Membership Rewards on Groceries \u2014 392 pts \u2248 $3.92 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "merchant": "The Capital Grille",
+      "category": "dining",
+      "amount": 87.16,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 349,
+        "estimated_value_usd": 3.49,
+        "note": "4x Membership Rewards on Dining \u2014 349 pts \u2248 $3.49 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "Ticketmaster",
+      "category": "entertainment",
+      "amount": 139.87,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 140,
+        "estimated_value_usd": 1.4,
+        "note": "1x Membership Rewards on Entertainment \u2014 140 pts \u2248 $1.40 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "merchant": "JetBlue Airways",
+      "category": "travel",
+      "amount": 267.47,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "3x",
+        "points_earned": 802,
+        "estimated_value_usd": 8.02,
+        "note": "3x Membership Rewards on Travel \u2014 802 pts \u2248 $8.02 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "merchant": "United Airlines",
+      "category": "travel",
+      "amount": 536.89,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "3x",
+        "points_earned": 1611,
+        "estimated_value_usd": 16.11,
+        "note": "3x Membership Rewards on Travel \u2014 1,611 pts \u2248 $16.11 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 14.52,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 58,
+        "estimated_value_usd": 0.58,
+        "note": "4x Membership Rewards on Dining \u2014 58 pts \u2248 $0.58 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "The Smith",
+      "category": "dining",
+      "amount": 57.06,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 228,
+        "estimated_value_usd": 2.28,
+        "note": "4x Membership Rewards on Dining \u2014 228 pts \u2248 $2.28 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 15.86,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 63,
+        "estimated_value_usd": 0.63,
+        "note": "4x Membership Rewards on Dining \u2014 63 pts \u2248 $0.63 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 68.77,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 275,
+        "estimated_value_usd": 2.75,
+        "note": "4x Membership Rewards on Groceries \u2014 275 pts \u2248 $2.75 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "merchant": "Kroger",
+      "category": "groceries",
+      "amount": 95.55,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 382,
+        "estimated_value_usd": 3.82,
+        "note": "4x Membership Rewards on Groceries \u2014 382 pts \u2248 $3.82 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 48.89,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 196,
+        "estimated_value_usd": 1.96,
+        "note": "4x Membership Rewards on Groceries \u2014 196 pts \u2248 $1.96 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 64.53,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 258,
+        "estimated_value_usd": 2.58,
+        "note": "4x Membership Rewards on Groceries \u2014 258 pts \u2248 $2.58 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "StubHub",
+      "category": "entertainment",
+      "amount": 210.66,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 211,
+        "estimated_value_usd": 2.11,
+        "note": "1x Membership Rewards on Entertainment \u2014 211 pts \u2248 $2.11 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "AMC Theatres",
+      "category": "entertainment",
+      "amount": 27.43,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 27,
+        "estimated_value_usd": 0.27,
+        "note": "1x Membership Rewards on Entertainment \u2014 27 pts \u2248 $0.27 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "merchant": "Shake Shack",
+      "category": "dining",
+      "amount": 16.14,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 65,
+        "estimated_value_usd": 0.65,
+        "note": "4x Membership Rewards on Dining \u2014 65 pts \u2248 $0.65 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 15.68,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 63,
+        "estimated_value_usd": 0.63,
+        "note": "4x Membership Rewards on Dining \u2014 63 pts \u2248 $0.63 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "merchant": "Domino's Pizza",
+      "category": "dining",
+      "amount": 22.48,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 90,
+        "estimated_value_usd": 0.9,
+        "note": "4x Membership Rewards on Dining \u2014 90 pts \u2248 $0.90 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "merchant": "Cheesecake Factory",
+      "category": "dining",
+      "amount": 50.86,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 203,
+        "estimated_value_usd": 2.03,
+        "note": "4x Membership Rewards on Dining \u2014 203 pts \u2248 $2.03 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 94.97,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 380,
+        "estimated_value_usd": 3.8,
+        "note": "4x Membership Rewards on Groceries \u2014 380 pts \u2248 $3.80 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "Starbucks",
+      "category": "dining",
+      "amount": 10.38,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 42,
+        "estimated_value_usd": 0.42,
+        "note": "4x Membership Rewards on Dining \u2014 42 pts \u2248 $0.42 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "merchant": "HomeGoods",
+      "category": "shopping",
+      "amount": 57.97,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 58,
+        "estimated_value_usd": 0.58,
+        "note": "1x Membership Rewards on Shopping \u2014 58 pts \u2248 $0.58 at 1.0\u00a2/pt"
+      }
+    }
+  ],
+  "reward_postings": [
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 The Capital Grille ($122.19 charged 05-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 489,
+      "estimated_value_usd": 4.89
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Cheesecake Factory ($41.11 charged 05-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 164,
+      "estimated_value_usd": 1.64
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Joe's Pizza ($9.74 charged 05-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 39,
+      "estimated_value_usd": 0.39
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Dunkin' ($4.76 charged 05-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 19,
+      "estimated_value_usd": 0.19
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sweetgreen ($16.93 charged 05-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 68,
+      "estimated_value_usd": 0.68
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Chick-fil-A ($9.99 charged 05-02)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 40,
+      "estimated_value_usd": 0.4
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Fairway Market ($60.35 charged 05-02)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 241,
+      "estimated_value_usd": 2.41
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sweetgreen ($18.11 charged 05-03)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 72,
+      "estimated_value_usd": 0.72
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Spotify ($10.99 charged 05-04)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 11,
+      "estimated_value_usd": 0.11
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Regal Cinemas ($22.56 charged 05-05)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 23,
+      "estimated_value_usd": 0.23
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 H&M ($65.50 charged 05-05)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 66,
+      "estimated_value_usd": 0.66
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Wegmans ($51.70 charged 05-06)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 207,
+      "estimated_value_usd": 2.07
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Disney+ ($13.99 charged 05-06)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 14,
+      "estimated_value_usd": 0.14
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Panda Express ($10.07 charged 05-07)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 40,
+      "estimated_value_usd": 0.4
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Dig Inn ($15.82 charged 05-08)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 63,
+      "estimated_value_usd": 0.63
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Momofuku Noodle Bar ($49.09 charged 05-09)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 196,
+      "estimated_value_usd": 1.96
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Five Guys ($16.36 charged 05-10)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 65,
+      "estimated_value_usd": 0.65
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Whole Foods Market ($109.92 charged 05-10)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 440,
+      "estimated_value_usd": 4.4
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 3x Membership Rewards \u2014 American Airlines ($177.98 charged 05-11)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 534,
+      "estimated_value_usd": 5.34
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Shake Shack ($16.95 charged 05-12)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 68,
+      "estimated_value_usd": 0.68
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Dunkin' ($6.87 charged 05-12)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 27,
+      "estimated_value_usd": 0.27
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sprouts Farmers Market ($102.97 charged 05-12)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 412,
+      "estimated_value_usd": 4.12
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Whole Foods Market ($122.90 charged 05-12)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 492,
+      "estimated_value_usd": 4.92
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 StubHub ($188.20 charged 05-12)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 188,
+      "estimated_value_usd": 1.88
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Five Guys ($14.07 charged 05-14)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 56,
+      "estimated_value_usd": 0.56
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Nobu New York ($99.44 charged 05-15)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 398,
+      "estimated_value_usd": 3.98
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Zara ($114.00 charged 05-15)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 114,
+      "estimated_value_usd": 1.14
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Stop & Shop ($98.04 charged 05-16)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 392,
+      "estimated_value_usd": 3.92
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 The Capital Grille ($87.16 charged 05-17)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 349,
+      "estimated_value_usd": 3.49
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Ticketmaster ($139.87 charged 05-19)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 140,
+      "estimated_value_usd": 1.4
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 3x Membership Rewards \u2014 JetBlue Airways ($267.47 charged 05-20)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 802,
+      "estimated_value_usd": 8.02
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 3x Membership Rewards \u2014 United Airlines ($536.89 charged 05-20)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 1611,
+      "estimated_value_usd": 16.11
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sweetgreen ($14.52 charged 05-24)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 58,
+      "estimated_value_usd": 0.58
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 The Smith ($57.06 charged 05-24)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 228,
+      "estimated_value_usd": 2.28
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Joe's Pizza ($15.86 charged 05-24)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 63,
+      "estimated_value_usd": 0.63
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Publix ($68.77 charged 05-24)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 275,
+      "estimated_value_usd": 2.75
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Kroger ($95.55 charged 05-25)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 382,
+      "estimated_value_usd": 3.82
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sprouts Farmers Market ($48.89 charged 05-26)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 196,
+      "estimated_value_usd": 1.96
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Stop & Shop ($64.53 charged 05-26)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 258,
+      "estimated_value_usd": 2.58
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 StubHub ($210.66 charged 05-26)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 211,
+      "estimated_value_usd": 2.11
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 AMC Theatres ($27.43 charged 05-26)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 27,
+      "estimated_value_usd": 0.27
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Shake Shack ($16.14 charged 05-27)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 65,
+      "estimated_value_usd": 0.65
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Joe's Pizza ($15.68 charged 05-28)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 63,
+      "estimated_value_usd": 0.63
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Domino's Pizza ($22.48 charged 05-28)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 90,
+      "estimated_value_usd": 0.9
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Cheesecake Factory ($50.86 charged 05-29)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 203,
+      "estimated_value_usd": 2.03
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Stop & Shop ($94.97 charged 05-29)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 380,
+      "estimated_value_usd": 3.8
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Starbucks ($10.38 charged 05-30)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 42,
+      "estimated_value_usd": 0.42
+    },
+    {
+      "date": "2026-05-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 HomeGoods ($57.97 charged 05-31)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 58,
+      "estimated_value_usd": 0.58
+    }
+  ],
+  "summary": {
+    "total_spend": 3493.74,
+    "transaction_count": 48,
+    "by_category": {
+      "dining": 741.64,
+      "groceries": 918.59,
+      "entertainment": 613.7,
+      "shopping": 237.47,
+      "travel": 982.34
+    },
+    "by_card": {
+      "amex-gold": 3493.74
+    }
+  },
+  "rewards_summary": {
+    "amex-gold": {
+      "type": "points",
+      "currency": "Membership Rewards",
+      "total_points_earned": 10439,
+      "total_estimated_value_usd": 104.39,
+      "by_category": {
+        "dining": {
+          "points": 2965,
+          "rate": "4x"
+        },
+        "groceries": {
+          "points": 3675,
+          "rate": "4x"
+        },
+        "entertainment": {
+          "points": 614,
+          "rate": "1x"
+        },
+        "shopping": {
+          "points": 238,
+          "rate": "1x"
+        },
+        "travel": {
+          "points": 2947,
+          "rate": "3x"
+        }
+      }
+    }
+  }
+}

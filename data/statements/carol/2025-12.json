@@ -1,0 +1,614 @@
+{
+  "user_id": "carol",
+  "name": "Carol Kim",
+  "month": "2025-12",
+  "cards": [
+    "discover-it-cash-back"
+  ],
+  "transactions": [
+    {
+      "date": "2025-12-02",
+      "merchant": "H&M",
+      "category": "shopping",
+      "amount": 44.97,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.45,
+        "note": "1% cashback \u2014 $0.45 earned"
+      }
+    },
+    {
+      "date": "2025-12-03",
+      "merchant": "Sunoco",
+      "category": "gas",
+      "amount": 73.85,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.74,
+        "note": "1% cashback \u2014 $0.74 earned"
+      }
+    },
+    {
+      "date": "2025-12-04",
+      "merchant": "Kroger",
+      "category": "groceries",
+      "amount": 39.5,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.4,
+        "note": "1% cashback \u2014 $0.40 earned"
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "merchant": "The Capital Grille",
+      "category": "dining",
+      "amount": 68.0,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.68,
+        "note": "1% cashback \u2014 $0.68 earned"
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 8.31,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.08,
+        "note": "1% cashback \u2014 $0.08 earned"
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "merchant": "Fairway Market",
+      "category": "groceries",
+      "amount": 120.26,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 1.2,
+        "note": "1% cashback \u2014 $1.20 earned"
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "merchant": "Five Guys",
+      "category": "dining",
+      "amount": 15.36,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.15,
+        "note": "1% cashback \u2014 $0.15 earned"
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "merchant": "Panera Bread",
+      "category": "dining",
+      "amount": 14.93,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.15,
+        "note": "1% cashback \u2014 $0.15 earned"
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 20.24,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.2,
+        "note": "1% cashback \u2014 $0.20 earned"
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "merchant": "Dunkin'",
+      "category": "dining",
+      "amount": 8.16,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.08,
+        "note": "1% cashback \u2014 $0.08 earned"
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "merchant": "Mobil",
+      "category": "gas",
+      "amount": 47.76,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.48,
+        "note": "1% cashback \u2014 $0.48 earned"
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "merchant": "Chick-fil-A",
+      "category": "dining",
+      "amount": 14.1,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.14,
+        "note": "1% cashback \u2014 $0.14 earned"
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "merchant": "ExxonMobil",
+      "category": "gas",
+      "amount": 41.84,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.42,
+        "note": "1% cashback \u2014 $0.42 earned"
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "merchant": "H&M",
+      "category": "shopping",
+      "amount": 57.26,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.57,
+        "note": "1% cashback \u2014 $0.57 earned"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 90.38,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.9,
+        "note": "1% cashback \u2014 $0.90 earned"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "Fairway Market",
+      "category": "groceries",
+      "amount": 68.6,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.69,
+        "note": "1% cashback \u2014 $0.69 earned"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "Sunoco",
+      "category": "gas",
+      "amount": 59.1,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.59,
+        "note": "1% cashback \u2014 $0.59 earned"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "AMC Theatres",
+      "category": "entertainment",
+      "amount": 27.91,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.28,
+        "note": "1% cashback \u2014 $0.28 earned"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "Nike",
+      "category": "shopping",
+      "amount": 162.78,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 1.63,
+        "note": "1% cashback \u2014 $1.63 earned"
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "merchant": "Blue Bottle Coffee",
+      "category": "dining",
+      "amount": 9.67,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.1,
+        "note": "1% cashback \u2014 $0.10 earned"
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "merchant": "The Smith",
+      "category": "dining",
+      "amount": 28.0,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.28,
+        "note": "1% cashback \u2014 $0.28 earned"
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "merchant": "Trader Joe's",
+      "category": "groceries",
+      "amount": 74.01,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.74,
+        "note": "1% cashback \u2014 $0.74 earned"
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "merchant": "Kroger",
+      "category": "groceries",
+      "amount": 77.55,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.78,
+        "note": "1% cashback \u2014 $0.78 earned"
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 72.57,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.73,
+        "note": "1% cashback \u2014 $0.73 earned"
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "merchant": "Macy's",
+      "category": "shopping",
+      "amount": 106.22,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 1.06,
+        "note": "1% cashback \u2014 $1.06 earned"
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "merchant": "Fairway Market",
+      "category": "groceries",
+      "amount": 133.05,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 1.33,
+        "note": "1% cashback \u2014 $1.33 earned"
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "merchant": "Aldi",
+      "category": "groceries",
+      "amount": 92.14,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.92,
+        "note": "1% cashback \u2014 $0.92 earned"
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "merchant": "Kroger",
+      "category": "groceries",
+      "amount": 67.54,
+      "card_id": "discover-it-cash-back",
+      "rewards_earned": {
+        "type": "cashback",
+        "rate": "1%",
+        "cashback_usd": 0.68,
+        "note": "1% cashback \u2014 $0.68 earned"
+      }
+    }
+  ],
+  "reward_postings": [
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 H&M ($44.97 charged 12-02)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.45
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Sunoco ($73.85 charged 12-03)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.74
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Kroger ($39.50 charged 12-04)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.4
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 The Capital Grille ($68.00 charged 12-05)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.68
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Joe's Pizza ($8.31 charged 12-06)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.08
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Fairway Market ($120.26 charged 12-06)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 1.2
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Five Guys ($15.36 charged 12-13)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.15
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Panera Bread ($14.93 charged 12-16)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.15
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Sweetgreen ($20.24 charged 12-16)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.2
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Dunkin' ($8.16 charged 12-19)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.08
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Mobil ($47.76 charged 12-19)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.48
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Chick-fil-A ($14.10 charged 12-20)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.14
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 ExxonMobil ($41.84 charged 12-20)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.42
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 H&M ($57.26 charged 12-20)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.57
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Publix ($90.38 charged 12-21)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.9
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Fairway Market ($68.60 charged 12-21)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.69
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Sunoco ($59.10 charged 12-21)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.59
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 AMC Theatres ($27.91 charged 12-21)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.28
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Nike ($162.78 charged 12-21)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 1.63
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Blue Bottle Coffee ($9.67 charged 12-22)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.1
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 The Smith ($28.00 charged 12-22)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.28
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Trader Joe's ($74.01 charged 12-22)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.74
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Kroger ($77.55 charged 12-23)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.78
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Stop & Shop ($72.57 charged 12-25)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.73
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Macy's ($106.22 charged 12-26)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 1.06
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Fairway Market ($133.05 charged 12-28)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 1.33
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Aldi ($92.14 charged 12-31)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.92
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Cashback Posted: 1% \u2014 Kroger ($67.54 charged 12-31)",
+      "card_id": "discover-it-cash-back",
+      "type": "cashback",
+      "cashback_usd": 0.68
+    }
+  ],
+  "summary": {
+    "total_spend": 1644.06,
+    "transaction_count": 28,
+    "by_category": {
+      "shopping": 371.23,
+      "gas": 222.55,
+      "groceries": 835.6,
+      "dining": 186.77,
+      "entertainment": 27.91
+    },
+    "by_card": {
+      "discover-it-cash-back": 1644.06
+    }
+  },
+  "rewards_summary": {
+    "discover-it-cash-back": {
+      "type": "cashback",
+      "total_cashback_usd": 16.45,
+      "by_category": {
+        "shopping": {
+          "cashback_usd": 3.71,
+          "rate": "1%"
+        },
+        "gas": {
+          "cashback_usd": 2.23,
+          "rate": "1%"
+        },
+        "groceries": {
+          "cashback_usd": 8.37,
+          "rate": "1%"
+        },
+        "dining": {
+          "cashback_usd": 1.86,
+          "rate": "1%"
+        },
+        "entertainment": {
+          "cashback_usd": 0.28,
+          "rate": "1%"
+        }
+      }
+    }
+  }
+}

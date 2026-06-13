@@ -1,0 +1,1045 @@
+{
+  "user_id": "bob",
+  "name": "Bob Martinez",
+  "month": "2025-12",
+  "cards": [
+    "amex-gold"
+  ],
+  "transactions": [
+    {
+      "date": "2025-12-01",
+      "merchant": "Dig Inn",
+      "category": "dining",
+      "amount": 16.86,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 67,
+        "estimated_value_usd": 0.67,
+        "note": "4x Membership Rewards on Dining \u2014 67 pts \u2248 $0.67 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-01",
+      "merchant": "Dunkin'",
+      "category": "dining",
+      "amount": 9.98,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 40,
+        "estimated_value_usd": 0.4,
+        "note": "4x Membership Rewards on Dining \u2014 40 pts \u2248 $0.40 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-01",
+      "merchant": "iCloud+",
+      "category": "utilities",
+      "amount": 2.99,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 3,
+        "estimated_value_usd": 0.03,
+        "note": "1x Membership Rewards on Utilities \u2014 3 pts \u2248 $0.03 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-02",
+      "merchant": "AMC Theatres",
+      "category": "entertainment",
+      "amount": 22.47,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 22,
+        "estimated_value_usd": 0.22,
+        "note": "1x Membership Rewards on Entertainment \u2014 22 pts \u2248 $0.22 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-03",
+      "merchant": "Regal Cinemas",
+      "category": "entertainment",
+      "amount": 23.31,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 23,
+        "estimated_value_usd": 0.23,
+        "note": "1x Membership Rewards on Entertainment \u2014 23 pts \u2248 $0.23 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-04",
+      "merchant": "Aldi",
+      "category": "groceries",
+      "amount": 58.64,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 235,
+        "estimated_value_usd": 2.35,
+        "note": "4x Membership Rewards on Groceries \u2014 235 pts \u2248 $2.35 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 122.17,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 489,
+        "estimated_value_usd": 4.89,
+        "note": "4x Membership Rewards on Groceries \u2014 489 pts \u2248 $4.89 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 118.87,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 475,
+        "estimated_value_usd": 4.75,
+        "note": "4x Membership Rewards on Groceries \u2014 475 pts \u2248 $4.75 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "merchant": "Apple Store",
+      "category": "shopping",
+      "amount": 333.63,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 334,
+        "estimated_value_usd": 3.34,
+        "note": "1x Membership Rewards on Shopping \u2014 334 pts \u2248 $3.34 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "merchant": "Spotify",
+      "category": "entertainment",
+      "amount": 10.99,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 11,
+        "estimated_value_usd": 0.11,
+        "note": "1x Membership Rewards on Entertainment \u2014 11 pts \u2248 $0.11 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "merchant": "Macy's",
+      "category": "shopping",
+      "amount": 97.47,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 97,
+        "estimated_value_usd": 0.97,
+        "note": "1x Membership Rewards on Shopping \u2014 97 pts \u2248 $0.97 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-07",
+      "merchant": "Cheesecake Factory",
+      "category": "dining",
+      "amount": 35.91,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 144,
+        "estimated_value_usd": 1.44,
+        "note": "4x Membership Rewards on Dining \u2014 144 pts \u2248 $1.44 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-08",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 76.12,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 304,
+        "estimated_value_usd": 3.04,
+        "note": "4x Membership Rewards on Groceries \u2014 304 pts \u2248 $3.04 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-08",
+      "merchant": "Macy's",
+      "category": "shopping",
+      "amount": 103.27,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 103,
+        "estimated_value_usd": 1.03,
+        "note": "1x Membership Rewards on Shopping \u2014 103 pts \u2248 $1.03 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "merchant": "Nordstrom",
+      "category": "shopping",
+      "amount": 126.74,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 127,
+        "estimated_value_usd": 1.27,
+        "note": "1x Membership Rewards on Shopping \u2014 127 pts \u2248 $1.27 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-10",
+      "merchant": "Nobu New York",
+      "category": "dining",
+      "amount": 130.26,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 521,
+        "estimated_value_usd": 5.21,
+        "note": "4x Membership Rewards on Dining \u2014 521 pts \u2248 $5.21 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "merchant": "Wegmans",
+      "category": "groceries",
+      "amount": 131.71,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 527,
+        "estimated_value_usd": 5.27,
+        "note": "4x Membership Rewards on Groceries \u2014 527 pts \u2248 $5.27 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "merchant": "Momofuku Noodle Bar",
+      "category": "dining",
+      "amount": 26.79,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 107,
+        "estimated_value_usd": 1.07,
+        "note": "4x Membership Rewards on Dining \u2014 107 pts \u2248 $1.07 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 15.22,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 61,
+        "estimated_value_usd": 0.61,
+        "note": "4x Membership Rewards on Dining \u2014 61 pts \u2248 $0.61 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "merchant": "Whole Foods Market",
+      "category": "groceries",
+      "amount": 91.6,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 366,
+        "estimated_value_usd": 3.66,
+        "note": "4x Membership Rewards on Groceries \u2014 366 pts \u2248 $3.66 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-14",
+      "merchant": "Ticketmaster",
+      "category": "entertainment",
+      "amount": 100.13,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 100,
+        "estimated_value_usd": 1.0,
+        "note": "1x Membership Rewards on Entertainment \u2014 100 pts \u2248 $1.00 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-15",
+      "merchant": "Apple Store",
+      "category": "shopping",
+      "amount": 557.87,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 558,
+        "estimated_value_usd": 5.58,
+        "note": "1x Membership Rewards on Shopping \u2014 558 pts \u2248 $5.58 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "merchant": "Sweetgreen",
+      "category": "dining",
+      "amount": 15.41,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 62,
+        "estimated_value_usd": 0.62,
+        "note": "4x Membership Rewards on Dining \u2014 62 pts \u2248 $0.62 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 104.3,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 417,
+        "estimated_value_usd": 4.17,
+        "note": "4x Membership Rewards on Groceries \u2014 417 pts \u2248 $4.17 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "merchant": "Apple Store",
+      "category": "shopping",
+      "amount": 713.78,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 714,
+        "estimated_value_usd": 7.14,
+        "note": "1x Membership Rewards on Shopping \u2014 714 pts \u2248 $7.14 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "merchant": "The Smith",
+      "category": "dining",
+      "amount": 41.58,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 166,
+        "estimated_value_usd": 1.66,
+        "note": "4x Membership Rewards on Dining \u2014 166 pts \u2248 $1.66 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "Stop & Shop",
+      "category": "groceries",
+      "amount": 83.75,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 335,
+        "estimated_value_usd": 3.35,
+        "note": "4x Membership Rewards on Groceries \u2014 335 pts \u2248 $3.35 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "merchant": "Target",
+      "category": "shopping",
+      "amount": 45.84,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 46,
+        "estimated_value_usd": 0.46,
+        "note": "1x Membership Rewards on Shopping \u2014 46 pts \u2248 $0.46 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "merchant": "Macy's",
+      "category": "shopping",
+      "amount": 121.05,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 121,
+        "estimated_value_usd": 1.21,
+        "note": "1x Membership Rewards on Shopping \u2014 121 pts \u2248 $1.21 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "merchant": "Trader Joe's",
+      "category": "groceries",
+      "amount": 44.25,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 177,
+        "estimated_value_usd": 1.77,
+        "note": "4x Membership Rewards on Groceries \u2014 177 pts \u2248 $1.77 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-24",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 13.21,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 53,
+        "estimated_value_usd": 0.53,
+        "note": "4x Membership Rewards on Dining \u2014 53 pts \u2248 $0.53 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "merchant": "Sprouts Farmers Market",
+      "category": "groceries",
+      "amount": 47.21,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 189,
+        "estimated_value_usd": 1.89,
+        "note": "4x Membership Rewards on Groceries \u2014 189 pts \u2248 $1.89 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 112.26,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 449,
+        "estimated_value_usd": 4.49,
+        "note": "4x Membership Rewards on Groceries \u2014 449 pts \u2248 $4.49 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "merchant": "Olive Garden",
+      "category": "dining",
+      "amount": 34.05,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 136,
+        "estimated_value_usd": 1.36,
+        "note": "4x Membership Rewards on Dining \u2014 136 pts \u2248 $1.36 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "merchant": "Dig Inn",
+      "category": "dining",
+      "amount": 15.67,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 63,
+        "estimated_value_usd": 0.63,
+        "note": "4x Membership Rewards on Dining \u2014 63 pts \u2248 $0.63 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "merchant": "Nobu New York",
+      "category": "dining",
+      "amount": 143.26,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 573,
+        "estimated_value_usd": 5.73,
+        "note": "4x Membership Rewards on Dining \u2014 573 pts \u2248 $5.73 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "merchant": "The Smith",
+      "category": "dining",
+      "amount": 45.48,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 182,
+        "estimated_value_usd": 1.82,
+        "note": "4x Membership Rewards on Dining \u2014 182 pts \u2248 $1.82 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "merchant": "The Capital Grille",
+      "category": "dining",
+      "amount": 102.78,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 411,
+        "estimated_value_usd": 4.11,
+        "note": "4x Membership Rewards on Dining \u2014 411 pts \u2248 $4.11 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "merchant": "Publix",
+      "category": "groceries",
+      "amount": 98.78,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 395,
+        "estimated_value_usd": 3.95,
+        "note": "4x Membership Rewards on Groceries \u2014 395 pts \u2248 $3.95 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "merchant": "Trader Joe's",
+      "category": "groceries",
+      "amount": 72.58,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 290,
+        "estimated_value_usd": 2.9,
+        "note": "4x Membership Rewards on Groceries \u2014 290 pts \u2248 $2.90 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "merchant": "IKEA",
+      "category": "shopping",
+      "amount": 179.45,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "1x",
+        "points_earned": 179,
+        "estimated_value_usd": 1.79,
+        "note": "1x Membership Rewards on Shopping \u2014 179 pts \u2248 $1.79 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "merchant": "Joe's Pizza",
+      "category": "dining",
+      "amount": 14.57,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 58,
+        "estimated_value_usd": 0.58,
+        "note": "4x Membership Rewards on Dining \u2014 58 pts \u2248 $0.58 at 1.0\u00a2/pt"
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "merchant": "Domino's Pizza",
+      "category": "dining",
+      "amount": 18.87,
+      "card_id": "amex-gold",
+      "rewards_earned": {
+        "type": "points",
+        "currency": "Membership Rewards",
+        "rate": "4x",
+        "points_earned": 75,
+        "estimated_value_usd": 0.75,
+        "note": "4x Membership Rewards on Dining \u2014 75 pts \u2248 $0.75 at 1.0\u00a2/pt"
+      }
+    }
+  ],
+  "reward_postings": [
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Dig Inn ($16.86 charged 12-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 67,
+      "estimated_value_usd": 0.67
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Dunkin' ($9.98 charged 12-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 40,
+      "estimated_value_usd": 0.4
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 iCloud+ ($2.99 charged 12-01)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 3,
+      "estimated_value_usd": 0.03
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 AMC Theatres ($22.47 charged 12-02)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 22,
+      "estimated_value_usd": 0.22
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Regal Cinemas ($23.31 charged 12-03)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 23,
+      "estimated_value_usd": 0.23
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Aldi ($58.64 charged 12-04)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 235,
+      "estimated_value_usd": 2.35
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Stop & Shop ($122.17 charged 12-05)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 489,
+      "estimated_value_usd": 4.89
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Publix ($118.87 charged 12-05)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 475,
+      "estimated_value_usd": 4.75
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Apple Store ($333.63 charged 12-05)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 334,
+      "estimated_value_usd": 3.34
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Spotify ($10.99 charged 12-06)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 11,
+      "estimated_value_usd": 0.11
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Macy's ($97.47 charged 12-06)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 97,
+      "estimated_value_usd": 0.97
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Cheesecake Factory ($35.91 charged 12-07)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 144,
+      "estimated_value_usd": 1.44
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sprouts Farmers Market ($76.12 charged 12-08)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 304,
+      "estimated_value_usd": 3.04
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Macy's ($103.27 charged 12-08)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 103,
+      "estimated_value_usd": 1.03
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Nordstrom ($126.74 charged 12-09)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 127,
+      "estimated_value_usd": 1.27
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Nobu New York ($130.26 charged 12-10)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 521,
+      "estimated_value_usd": 5.21
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Wegmans ($131.71 charged 12-11)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 527,
+      "estimated_value_usd": 5.27
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Momofuku Noodle Bar ($26.79 charged 12-12)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 107,
+      "estimated_value_usd": 1.07
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Joe's Pizza ($15.22 charged 12-13)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 61,
+      "estimated_value_usd": 0.61
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Whole Foods Market ($91.60 charged 12-13)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 366,
+      "estimated_value_usd": 3.66
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Ticketmaster ($100.13 charged 12-14)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 100,
+      "estimated_value_usd": 1.0
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Apple Store ($557.87 charged 12-15)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 558,
+      "estimated_value_usd": 5.58
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sweetgreen ($15.41 charged 12-16)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 62,
+      "estimated_value_usd": 0.62
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sprouts Farmers Market ($104.30 charged 12-17)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 417,
+      "estimated_value_usd": 4.17
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Apple Store ($713.78 charged 12-19)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 714,
+      "estimated_value_usd": 7.14
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 The Smith ($41.58 charged 12-20)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 166,
+      "estimated_value_usd": 1.66
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Stop & Shop ($83.75 charged 12-21)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 335,
+      "estimated_value_usd": 3.35
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Target ($45.84 charged 12-21)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 46,
+      "estimated_value_usd": 0.46
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 Macy's ($121.05 charged 12-22)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 121,
+      "estimated_value_usd": 1.21
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Trader Joe's ($44.25 charged 12-23)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 177,
+      "estimated_value_usd": 1.77
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Joe's Pizza ($13.21 charged 12-24)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 53,
+      "estimated_value_usd": 0.53
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Sprouts Farmers Market ($47.21 charged 12-25)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 189,
+      "estimated_value_usd": 1.89
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Publix ($112.26 charged 12-26)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 449,
+      "estimated_value_usd": 4.49
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Olive Garden ($34.05 charged 12-27)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 136,
+      "estimated_value_usd": 1.36
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Dig Inn ($15.67 charged 12-27)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 63,
+      "estimated_value_usd": 0.63
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Nobu New York ($143.26 charged 12-27)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 573,
+      "estimated_value_usd": 5.73
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 The Smith ($45.48 charged 12-27)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 182,
+      "estimated_value_usd": 1.82
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 The Capital Grille ($102.78 charged 12-28)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 411,
+      "estimated_value_usd": 4.11
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Publix ($98.78 charged 12-28)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 395,
+      "estimated_value_usd": 3.95
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Trader Joe's ($72.58 charged 12-28)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 290,
+      "estimated_value_usd": 2.9
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 1x Membership Rewards \u2014 IKEA ($179.45 charged 12-29)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 179,
+      "estimated_value_usd": 1.79
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Joe's Pizza ($14.57 charged 12-30)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 58,
+      "estimated_value_usd": 0.58
+    },
+    {
+      "date": "2025-12-31",
+      "description": "Rewards Posted: 4x Membership Rewards \u2014 Domino's Pizza ($18.87 charged 12-31)",
+      "card_id": "amex-gold",
+      "type": "points",
+      "points_earned": 75,
+      "estimated_value_usd": 0.75
+    }
+  ],
+  "summary": {
+    "total_spend": 4281.13,
+    "transaction_count": 43,
+    "by_category": {
+      "dining": 679.9,
+      "utilities": 2.99,
+      "entertainment": 156.9,
+      "groceries": 1162.24,
+      "shopping": 2279.1
+    },
+    "by_card": {
+      "amex-gold": 4281.13
+    }
+  },
+  "rewards_summary": {
+    "amex-gold": {
+      "type": "points",
+      "currency": "Membership Rewards",
+      "total_points_earned": 9805,
+      "total_estimated_value_usd": 98.05,
+      "by_category": {
+        "dining": {
+          "points": 2719,
+          "rate": "4x"
+        },
+        "utilities": {
+          "points": 3,
+          "rate": "1x"
+        },
+        "entertainment": {
+          "points": 156,
+          "rate": "1x"
+        },
+        "groceries": {
+          "points": 4648,
+          "rate": "4x"
+        },
+        "shopping": {
+          "points": 2279,
+          "rate": "1x"
+        }
+      }
+    }
+  }
+}
